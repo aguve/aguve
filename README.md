@@ -1,4 +1,4 @@
-# Andreu Guzman Vendrell
+# Andreu Guzman
 
 Desarrollador web full-stack con formación en Desarrollo de Aplicaciones Informáticas. Experiencia en desarrollo web con Java, PHP, JavaScript y Python, trabajando para clientes como BBVA. Interesado en Machine Learning, Deep Learning y desarrollo móvil con Flutter.
 
