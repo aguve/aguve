@@ -34,4 +34,4 @@ Aplicación SPA para optimización logística del centro de distribución DDI Mo
 
 ---
 
-Contacto: [aguveone@gmail.com](mailto:aguveone@gmail.com) · [LinkedIn](https://linkedin.com/in/andreu-guzman-0512917b)
+Contacto: [aguveone@gmail.com](mailto:aguveone@gmail.com) · [LinkedIn](https://linkedin.com/in/andreu-guzman-0512917b) · https://aguve.github.io/webcv/
