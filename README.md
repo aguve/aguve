@@ -28,4 +28,4 @@ Docker · Git · MySQL · MongoDB · SQL Server · Bootstrap · Visual Studio Co
 
 ---
 
-Contacto: [aguveone@gmail.com](mailto:aguveone@gmail.com) · [LinkedIn](https://linkedin.com/in/andreu-guzman-0512917b) · https://aguve.github.io/webcv/
+Contacto: [aguveone@gmail.com](mailto:aguveone@gmail.com) · [LinkedIn](https://linkedin.com/in/andreu-guzman-0512917b) · [CV Web](https://aguve.github.io/webcv/)
