@@ -4,7 +4,7 @@ Desarrollador web full-stack con formación en Desarrollo de Aplicaciones Inform
 
 ## Proyectos
 
-### [DevLab](https://github.com/aguve/devlab)
+### [DevLab](https://github.com/aguve/devlab) · [v1.0.0 release](https://github.com/aguve/devlab/releases/tag/v1.0.0)
 
 Entorno de desarrollo modular basado en Docker. Un workspace compartido con múltiples contenedores para Python, Java, utilidades y base de datos, accesibles de forma independiente o conjunta.
 
