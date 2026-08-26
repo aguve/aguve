@@ -24,7 +24,7 @@ Python · Java · SQL · HTML5 · CSS · JavaScript · Dart · PHP
 
 ### Herramientas y Frameworks
 
-Docker · Git · MySQL · MongoDB · SQL Server · Bootstrap · Visual Studio Code
+Docker · Git · MySQL · MongoDB · SQL Server · Bootstrap · Visual Studio Code · Jupyter
 
 ---
 
