@@ -14,23 +14,17 @@ Docker · Git · MySQL · MongoDB · SQL Server · Bootstrap · Visual Studio Co
 
 ## Proyectos
 
-### DevLab
+### [DevLab](https://github.com/aguve/devlab)
 
 Entorno de desarrollo modular basado en Docker. Un workspace compartido con múltiples contenedores para Python, Java, utilidades y base de datos, accesibles de forma independiente o conjunta.
 
-[Ver repositorio](https://github.com/aguve/devlab)
-
-### CoffeeBreak
+### [CoffeeBreak](https://github.com/aguve/CoffeeBreak)
 
 Aplicación web full-stack para gestión de pedidos en cafetería universitaria. Permite a los estudiantes explorar el menú, realizar pedidos y seguir su estado en tiempo real. Backend en Java con Servlets Jakarta, MySQL y frontend responsive con Bootstrap.
 
-[Ver repositorio](https://github.com/aguve/CoffeeBreak)
-
-### Damm-Logistic
+### [Damm-Logistic](https://github.com/aguve/Damm-Logistic)
 
 Aplicación SPA para optimización logística del centro de distribución DDI Mollet de Estrella Damm. Incluye optimización de rutas con algoritmo Nearest-Neighbor, planificación de carga LIFO y dashboard con gráficos interactivos. JavaScript vanilla, Leaflet.js y Chart.js.
-
-[Ver repositorio](https://github.com/aguve/Damm-Logistic)
 
 ---
 
